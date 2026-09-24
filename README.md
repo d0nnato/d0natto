@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou d0nnato
+# 👋 Seja bem vindo, me chamo d0natto
 
 💻 Desenvolvedor apaixonado por tecnologia e programação.
 
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,github" />
-</p># d0natto
+  <img src="https://skillicons.dev/icons?i=js,html,css,github" />
+
