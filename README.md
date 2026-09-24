@@ -5,5 +5,5 @@
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,github" />
 </p># d0natto
